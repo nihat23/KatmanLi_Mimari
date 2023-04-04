@@ -1,0 +1,9 @@
+D:\Derslerim\VB\Katmanli_Mimari\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+D:\Derslerim\VB\Katmanli_Mimari\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+D:\Derslerim\VB\Katmanli_Mimari\DataAccesLayer\bin\Debug\Entity_Layer.dll
+D:\Derslerim\VB\Katmanli_Mimari\DataAccesLayer\bin\Debug\Entity_Layer.pdb
+D:\Derslerim\VB\Katmanli_Mimari\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+D:\Derslerim\VB\Katmanli_Mimari\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+D:\Derslerim\VB\Katmanli_Mimari\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+D:\Derslerim\VB\Katmanli_Mimari\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+D:\Derslerim\VB\Katmanli_Mimari\DataAccesLayer\obj\Debug\DataAccesLayer.pdb

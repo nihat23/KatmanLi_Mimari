@@ -1,0 +1,11 @@
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\bin\Debug\BusinesLayer.dll
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\bin\Debug\BusinesLayer.pdb
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\bin\Debug\DataAccesLayer.dll
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\bin\Debug\Entity_Layer.dll
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\bin\Debug\DataAccesLayer.pdb
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\bin\Debug\Entity_Layer.pdb
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\obj\Debug\BusinesLayer.csproj.AssemblyReference.cache
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\obj\Debug\BusinesLayer.csproj.CoreCompileInputs.cache
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\obj\Debug\BusinesLayer.csproj.CopyComplete
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\obj\Debug\BusinesLayer.dll
+D:\Derslerim\VB\Katmanli_Mimari\BusinesLayer\obj\Debug\BusinesLayer.pdb
